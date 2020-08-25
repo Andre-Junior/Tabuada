@@ -6,7 +6,9 @@ Foi criado a partir do exercício do curso básico em Javascript do **Curso em V
 
 ___
 
+
+
 ## Times table
 
 Project developed using a loop to calculate the multiplication table.
-It was created from the exercise of the basic course in Javascript of ** Curso em Vídeo **.
+It was created from the exercise of the basic course in Javascript of **Curso em Vídeo**.
